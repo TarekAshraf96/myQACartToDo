@@ -1,5 +1,5 @@
 # myQACartToDo
-This is a small automation project showing how to create an account, add a ToDo task, and remove a task on the QACart ToDo website.
+This is a Simple automation project showing how to create an account, add a ToDo task, and remove a task on the QACart ToDo website.
 The project is really simple but with a few tricky obstacles on the way. Nonetheless, you will learn from it. Let's get started.
 
 
